@@ -1,0 +1,7 @@
+pip-tools==6.13.0
+requests==2.31.0
+functions-framework==3.4.0
+python-telegram-bot==20.5
+google-cloud-secret-manager==2.16.4
+pydantic==2.4.1
+psycopg2==2.9.9
